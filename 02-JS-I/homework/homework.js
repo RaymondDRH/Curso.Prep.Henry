@@ -3,7 +3,7 @@
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = null;
 
-// Crea una variable numérica, puede ser cualquier número:
+// Crea una variable numéric, puede ser cualquier número:
 const nuevoNum = null;
 
 // Crea una variable booleana:
@@ -198,7 +198,7 @@ function deEuroAdolar(euro){
 }
 
 
-function esVocal(letra){
+function sVocal(letra){
   //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
   //Verificar si el usuario ingresó un string de más de un carácter, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
